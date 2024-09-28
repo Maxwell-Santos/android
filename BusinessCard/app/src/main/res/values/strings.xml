@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Maxwell Alves</string>
+    <string name="work_with">Software Developer</string>
+    <string name="phone">(11) 97776-1749</string>
+    <string name="hashtag">\@MaxwellAlves</string>
+    <string name="email">max.coding011@gmail.com</string>
+</resources>
